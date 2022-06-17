@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @AA3111s
-- 👀 I’m interested in coding, gaming, science, discord and procastinating is my favourite timepass.
-- 🌱 I’m currently learning C and I'm a rookie at HTML, CSS, Python and Javascript.
-- 💞️ I’m looking forward to learning C# and C++ in future..
+- 👀 Professional Procrastinator who's into tech and music.
+- 🌱 Total rookie at HTML and CSS.
+
+
+- 💞️ rm -rf social life
+- mk dir CS
+- code aa3111s_
+- ./ aa3111s_
+- Error 404
 
 <!---
 AA3111s/AA3111s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
