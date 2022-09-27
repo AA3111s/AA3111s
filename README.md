@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @AA3111s
 - 👀 Professional Procrastinator who's into tech and music.
-- 🌱 Total rookie at HTML and CSS.
+- 🤣 Total rookie at HTML and CSS.
 
 
 - 💞️ rm -rf social life
 - mk dir CS
 - code aa3111s_
 - ./ aa3111s_
-- Error 404
+- Error 404 life of the user not found
 
 <!---
 AA3111s/AA3111s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
