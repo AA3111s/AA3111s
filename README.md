@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @AA3111s
-- 👀 Professional Procrastinator who's into tech and music.
-- 🤣 Total rookie at HTML and CSS.
+- Hi, I’m @AA3111s
+- Professional Procrastinator who's into tech and music.
+- Total rookie at HTML and CSS.
 
 
-- 💞️ rm -rf social life
+- rm -rf social life
 - mk dir CS
 - code aa3111s_
-- ./ aa3111s_
+- ./aa3111s_
 - Error 404 life of the user not found
 
 <!---
