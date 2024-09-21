@@ -1,7 +1,4 @@
-- Hi, I’m @AA3111s
-- Professional Procrastinator who's into tech and music.
-- Total rookie at HTML and CSS.
-
+Hey, this is aa.
 
 - rm -rf social life
 - mk dir CS
