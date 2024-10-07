@@ -5,7 +5,7 @@ Hey, this is aa.
 - code aa3111s_
 - ./aa3111s_
 - Error 404 life of the user not found
-[![aa3111s's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/aa3111s/github-readme-stats)
+[![aa3111s's GitHub stats](https://github-readme-stats.vercel.app/api?username=aa3111s)](https://github.com/aa3111s/github-readme-stats)
 <!---
 AA3111s/AA3111s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
