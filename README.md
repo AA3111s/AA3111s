@@ -5,9 +5,9 @@
 
 - 📄 Know about my experiences through [my CV](https://docs.google.com/document/d/111a5WlGhpIQcq_NRpGpAZ7FH5PSRCtkc9GuAhDcxSRA/edit?usp=sharing)
 
-- 🤝 I’m open to connecting on [my LinkedIn](www.linkedin.com/in/aa3111s)
+- 🤝 I’m open to connecting on [my LinkedIn](www.linkedin.com/in/aa3111s/)
 
-- 📫 You can reach me on my [mail](aman.ankur@icloud.com)
+- 📫 You can reach me on my [mail](aman.ankur@icloud.com/)
 
 - 🔭 I’m currently learning **C through CS50x 2024**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/aman-ankur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aman-ankur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/aman-ankur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aa3111s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
