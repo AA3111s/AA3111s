@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences through [my CV](https://docs.google.com/document/d/111a5WlGhpIQcq_NRpGpAZ7FH5PSRCtkc9GuAhDcxSRA/edit?usp=sharing)
 
-- 🤝 I’m open to connecting on [my LinkedIn](<a href="https://linkedin.com/in/aa3111s" target="blank">)
+- 🤝 I’m open to connecting on [my LinkedIn](https://linkedin.com/in/aa3111s/)
 
 - 📫 You can reach me on my [mail](aman.ankur@icloud.com)
 
