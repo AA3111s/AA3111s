@@ -5,9 +5,9 @@
 
 - 📄 Know about my experiences through [my CV](https://docs.google.com/document/d/111a5WlGhpIQcq_NRpGpAZ7FH5PSRCtkc9GuAhDcxSRA/edit?usp=sharing)
 
-- 🤝 I’m open to connecting on [my LinkedIn](https://linkedin.com/in/aa3111s/)
+- 🤝 I’m open to connecting on <a href="https://linkedin/in/aa3111s" target="_blank">my LinkedIn</a>
 
-- 📫 You can reach me on my [mail](aman.ankur@icloud.com)
+- 📫 You can reach me on my [mail](mailto:aman.ankur%40icloud.com?subject=Your%20Subject&body=Body%20text)
 
 - 🔭 I’m currently learning **C through CS50x 2024**
 
