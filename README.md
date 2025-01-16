@@ -9,7 +9,7 @@
 
 - 📫 You can reach me on my [mail](mailto:aman.ankur%40icloud.com?subject=Your%20Subject&body=Body%20text)
 
-- 🔭 I’m currently learning **C through CS50x 2024**
+- 🔭 I’m currently learning **C through CS50x 2025**
 
 - ⚡ Fun fact **I'm funny**
 
