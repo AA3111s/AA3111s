@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Ankur</h1>
 <h3 align="center">A passionate learner and developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aa3111s&label=Profile%20views&color=0e75b6&style=flat" alt="aa3111s" /> </p>
-
 - 📄 Know about my experiences through [my CV](https://docs.google.com/document/d/111a5WlGhpIQcq_NRpGpAZ7FH5PSRCtkc9GuAhDcxSRA/edit?usp=sharing)
 
 - 🤝 I’m open to connecting on <a href="https://www.linkedin.com/in/aa3111s" target="_blank">my LinkedIn</a>
 
 - 📫 You can reach me on my [mail](mailto:aman.ankur%40icloud.com?subject=Your%20Subject&body=Body%20text)
 
-- 🔭 I’m currently learning **C through CS50x 2025**
+- 🔭 I’m currently learning **C through CS50x 2025 and Competitive Programming using CPP**
 
 - ⚡ Fun fact **I'm funny**
 
