@@ -9,7 +9,6 @@
 
 - 🔭 I’m currently learning **C through CS50x 2025 and Competitive Programming using CPP**
 
-- ⚡ Fun fact **I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
