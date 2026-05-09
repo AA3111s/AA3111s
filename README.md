@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aman Ankur</h1>
 <h3 align="center">A passionate learner and developer</h3>
 
-- 📄 Know about my experiences through [my CV](https://docs.google.com/document/d/111a5WlGhpIQcq_NRpGpAZ7FH5PSRCtkc9GuAhDcxSRA/edit?usp=sharing)
+- 📄 Know about my experiences through [my CV](https://drive.google.com/file/d/1W3X29k680AlK5HaNWC2QCxPPCc7nG2EP/view?usp=share_link)
 
 - 🤝 I’m open to connecting on <a href="https://www.linkedin.com/in/aa3111s" target="_blank">my LinkedIn</a>
 
 - 📫 You can reach me on my [mail](mailto:aman.ankur%40icloud.com?subject=Your%20Subject&body=Body%20text)
 
-- 🔭 I’m currently learning **C through CS50x 2025 and Competitive Programming using CPP**
+- 🔭 I’m currently doing **Competitive Programming in CPP and learning Data Structures and Algorithms using CPP**
 
 
 <h3 align="left">Connect with me:</h3>
